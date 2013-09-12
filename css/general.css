@@ -1,0 +1,141 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+
+html {
+	background-image:url(../images/mooning.png);
+	background-repeat: repeat;
+	font: normal 100%/1.4 Georgia, serif; 
+}
+
+
+
+article {
+	background-image:url(../images/background.png);
+	padding: 0.5em;
+	overflow:hidden;
+	max-width: 950px;
+	margin:auto;
+}
+
+h2 {
+	padding: 5%;
+	font-size: 16px;
+	color:#999;
+}
+
+
+
+.icon {
+	max-width: 18%;
+	float: right;
+	margin: 0;
+	padding: 2px;
+	
+}
+
+.content {
+	float: none;
+	padding: 2%;
+}
+
+	
+.flex-img {
+	width: 100%;
+	}
+
+figure {
+	margin: 0 -0.5em;
+	}
+
+p {
+	font-size:16px;
+	color:#000;
+}
+
+img {
+	width: 75%;
+	padding: 13%;
+}
+
+
+
+figcaption {
+	padding: 5%;
+	font-size: 22px;
+	color:#999;
+}
+
+figcaption2 {
+	padding: 5%;
+	font-size: 18px;
+	color:#999;
+}
+
+
+dt {
+	color:#999;
+}
+
+dd {
+	margin: 0;
+}
+
+header p {
+	padding-left: 2rem;
+}
+
+
+@media only screen and (min-width: 25em) {
+
+dl {
+	border: 1px solid red;
+	/*
+	clearfix: forces the <d1> to wrap around its floated children
+	*/
+	overflow: hidden;
+	
+}
+
+
+dt {
+	float: left;
+	clear:both;
+}
+
+dd {
+	float: left;
+}
+
+}
+	
+
+@media only screen and (min-width: 36em) {
+
+.content {
+	
+	float:left;
+	width:60%;
+	padding: 0;
+	
+}
+
+
+figure {
+	float: left;
+	width: 40%;
+	margin: 0;	
+}
+	
+}
+	
+	
+	
+	
