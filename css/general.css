@@ -2,13 +2,13 @@
 /* CSS Document */
 
 html {
-	background-image:url(../images/background.png);
-	background-repeat: repeat;
+	width: 100%;
+	padding: 0;
+	margin:0;
 	} 
 	
 body {
-	background-image:url(../images/background.png);
-	background-repeat:repeat;
+	
 	margin: 0 auto;
 	width: 100%;
 	min-width: 240px;
@@ -19,12 +19,12 @@ body {
 	}
 
 header {
-	background-image:url(../images/headerbg.png);
-	clear:both;
+	
+	background-color: #f2f2f2;
 	width: 100%;
   	height: 80px;
   	padding-top: 5px;
-	z-index: auto;
+	
 	box-shadow: 1px 1px 1px #ccc;	
 	}     
 
@@ -64,11 +64,10 @@ header {
 }
 
 .logo {
+
 }
 
-.logo2 {
-	display: none;
-}
+
 	
 h1 {
 	font-size: 22px;
@@ -167,11 +166,12 @@ figcaption {
 
 footer {
 	margin-top: 40px;
-	height: 120px;
-	background-image:url(../images/headerbg.png);
+	height: 60px;
+	background-color: #a5a5a5;
 	clear:both;
+	bottom: 0px;
 	border-top: #CCC solid 1px;
-	border-bottom: #AECFED solid 5px;
+	
 }
 
 .icons {
