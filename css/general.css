@@ -25,7 +25,7 @@ header {
   	height: 80px;
   	padding-top: 5px;
 	z-index: auto;
-	box-shadow: 1px 1px 1px #ccc;
+	box-shadow: 1px 1px 1px #ccc;	
 	}     
 
 .menubar {
@@ -620,6 +620,7 @@ article {
 
 .social-icons {
 	margin: 0 50px 0 0;
+	float: right;
 }
 
 
