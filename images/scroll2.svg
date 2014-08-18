@@ -3,7 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 111 111" enable-background="new 0 0 111 111" xml:space="preserve">
-<circle fill="none" stroke="#B3B3B3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="56.2" cy="54.8" r="39.5"/>
+<circle fill="#FFFFFF" stroke="#B3B3B3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="56.2" cy="54.8" r="39.5"/>
 <g>
 	<polyline fill="none" stroke="#B3B3B3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="49.5,60.5 
 		56.4,67.5 63.4,60.5 	"/>
