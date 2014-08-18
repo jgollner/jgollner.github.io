@@ -30,8 +30,8 @@ header {
 	background: url(../images/!BG6.jpg) 50% 0 no-repeat fixed;
 	height: 100vh;  
 	margin: 0 auto; 
-    width: 100%; 
-    max-width: 1920px; 
+    width: 100vw; 
+    
     position: relative; 
     box-shadow: 0 0 5px rgba(0,0,0,0.8);
    	z-index: 1;
@@ -41,11 +41,11 @@ header {
 
 .intro {
 	background: url(../images/!BG6.jpg) 50% 0 no-repeat fixed;
-	width: 100%;
+	width: 100vw;
 	margin: 0 auto;
 	text-align: center;
 	padding: 5%;
-	max-width: 1920px; 
+	
     position: relative; 
     box-shadow: 0 0 5px rgba(0,0,0,0.8);
    	z-index: 1;
