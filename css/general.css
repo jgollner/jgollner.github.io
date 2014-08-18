@@ -55,9 +55,9 @@ body {
 
 h2 {
 	font-family: 'Maven Pro', sans-serif;
-	font-weight: 500;
-	font-size: 82pt;
-	margin-right: 100px;
+	font-weight: 400;
+	font-size: 32pt;
+	text-align: center;
 	letter-spacing: -.01em;
 }
 
@@ -74,7 +74,7 @@ h2 {
 
 #section1 h2 {
 	font-family: 'Maven Pro', sans-serif;
-	font-weight: 300;
+	font-weight: 400;
 	font-size: 32pt;
 	letter-spacing: -.01em;
 } 
