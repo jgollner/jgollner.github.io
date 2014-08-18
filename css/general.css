@@ -512,7 +512,7 @@ article {
 }
 
 .nav {
-	background-color: #222;
+	
 
 }
 
@@ -546,6 +546,7 @@ article {
 	display: inline-block;
 	width: 100%;
 	padding-top: 5px;
+	background-color: #222;
 
 	
 }
@@ -594,16 +595,7 @@ article {
 	display: none;
 }
 
-.logo {
-	display: none;
-}
 
-.logo2 {
-	display:inline;
-	float:left;
-	padding-top: 5px;
-	padding-left:9%;
-}
 
 .james {
 	width: 80%;
@@ -621,6 +613,7 @@ article {
 .social-icons {
 	margin: 0 50px 0 0;
 	float: right;
+	bottom: 0;
 }
 
 .nav-btn:hover,
