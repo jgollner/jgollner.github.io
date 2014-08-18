@@ -94,11 +94,12 @@ h3 {
 
 .scroll {
 	background-image: url(../images/scroll.svg);
+	background-repeat: no-repeat;
 	width: 40px;
 	height: 40px; 
 	text-align: center;
 	margin: 0 auto;	
-	
+
 }
 
 
