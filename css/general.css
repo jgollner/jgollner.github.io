@@ -45,16 +45,16 @@ body {
    	overflow: hidden;
    	height: 56vh;
    	padding-top: 250px;
-   	font-family: 'Maven Pro', sans-serif;
-   	font-weight: 300;
+   font-family: 'Roboto', sans-serif;
+   	font-weight: 100;
 	color: #fff;
 	display: inline-block;
 }
 
 
 h2 {
-	font-family: 'Maven Pro', sans-serif;
-	font-weight: normal;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
 	font-size: 30pt;
 	text-align: center;
 	letter-spacing: -.01em;
@@ -64,8 +64,8 @@ h2 {
 }
 
 b {
-	font-family: 'Maven Pro', sans-serif;
-	font-weight: normal;
+	font-family: 'Roboto', sans-serif;
+	font-weight:100;
 	font-size: 30pt;
 	text-align: center;
 	letter-spacing: -.01em;
@@ -87,8 +87,8 @@ b {
 }
 
 #section1 h2 {
-	font-family: 'Maven Pro', sans-serif;
-	font-weight: normal;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
 	font-size: 30pt;
 	letter-spacing: -.01em;
 } 
