@@ -536,16 +536,16 @@ article {
 }
 
 .holder {
-	float: left;
+	
 	display: inline-block;
-	width: 15%;
+	width: 100%;
 	padding-top: 5px;
-	margin-left: 10%;
-	min-width: 150px;
+
+	
 }
 
 .nav li {
-		display: inline-block;
+		display: inline;
 		float: none;
 		width:auto;
 		padding-top: 12%;
