@@ -58,8 +58,8 @@ h2 {
 	font-size: 34pt;
 	text-align: center;
 	letter-spacing: -.01em;
-	line-height: .1em;
-	margin-bottom: 50px;
+	line-height: 0em;
+	margin-bottom: 0px;
 	color: #ccc;
 
 }
@@ -67,11 +67,11 @@ h2 {
 h3 {
 	font-family: 'Roboto', sans-serif;
 	font-weight:100;
-	font-size: 45pt;
+	font-size: 30pt;
 	text-align: center;
 	letter-spacing: -.01em;
 	color:#e58229;
-	line-height: .1em;
+	line-height: 0em;
 	padding: 0 10px;
 			
 }
