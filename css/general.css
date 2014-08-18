@@ -26,7 +26,7 @@ header {
 #landing {
 	
 	background: url(../images/!BG6.jpg) 50% 0 no-repeat fixed;
-	height: 70vh;  
+	height: 100vh;  
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
@@ -56,15 +56,15 @@ header {
 
 
 
-/*#section1 {
+#section1 {
 	height: 1000px;
-	background: #f2f2f2 50% 0 repeat fixed;
+	background: #f2f2f2 50% 0 no-repeat fixed;
 	width: 100vw;
 	margin: 0 auto;
 	position: relative;
 	
 }
-*/
+
 
 /*
 
