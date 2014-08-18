@@ -55,7 +55,7 @@ body {
 h2 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
-	font-size: 40pt;
+	font-size: 34pt;
 	text-align: center;
 	letter-spacing: -.01em;
 	line-height: .1em;
@@ -89,7 +89,7 @@ h3 {
 #section1 h2 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100	;
-	font-size: 40pt;
+	font-size: 34pt;
 	letter-spacing: -.01em;
 } 
 
