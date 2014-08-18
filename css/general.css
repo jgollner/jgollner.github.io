@@ -473,7 +473,7 @@ article {
 }
 
 .ac-container{
-	display: none;
+	display: inline-block;
 }
 
 .right {
@@ -521,7 +521,8 @@ article {
 }
 
 .nav {
-	
+	display: inline-block;
+	float: none;
 
 }
 
