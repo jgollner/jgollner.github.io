@@ -1,3 +1,1 @@
-# James Gollners Porfolio Website!
-
-My portfolio site
+# Coding practice - coffee & code 
