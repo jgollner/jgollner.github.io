@@ -60,9 +60,7 @@ h2 {
 	text-align: center;
 	letter-spacing: -.01em;
 	line-height: 1em;
-	position: fixed;
-	margin: 50px 45%;
-	width: 100%;
+
 }
 
 h3 {
@@ -73,9 +71,7 @@ h3 {
 	letter-spacing: -.01em;
 	color:#e58229;
 	line-height: 1em;
-	position: fixed;
-	margin: 50px 45%;
-	width: 100%;
+	
 }
 
 
