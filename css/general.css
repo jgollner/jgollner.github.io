@@ -10,8 +10,7 @@ html {
 body {
 	margin: 0 auto;
 	width: 100%;
-	font-family: 'Dosis', sans-serif;
-	line-height: 1.5em;
+	font-family: 'Gruppo', cursive;
 	}
 
 /*header {
@@ -55,7 +54,7 @@ body {
 
 
 h2 {
-	font-family: 'Dosis', sans-serif;
+	font-family: 'Gruppo', cursive;
 	font-weight: 500;
 	font-size: 82pt;
 	margin-right: 100px;
