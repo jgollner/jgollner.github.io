@@ -546,10 +546,7 @@ article {
 
 .nav li {
 		display: inline-block;
-		float: none;
-		width:auto;
-		padding-top: 12%;
-		padding-bottom: 12%;
+		
 		border-bottom-style:hidden;
 }
 
