@@ -625,8 +625,7 @@ article {
 	
 .icons {
 	float:right;
-	margin-top: 2%;
-	padding-right: 5px;
+	bottom: 0;
 }
 
 .social-icons {
