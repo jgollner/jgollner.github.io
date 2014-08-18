@@ -29,8 +29,8 @@ header {
 
 
 #landing {
-	height: 60vh;
-	background: url(../images/!BG6.jpg) 100% no-repeat fixed;
+	height: 100vh;
+	background: url(../images/!BG6.jpg) 0 no-repeat fixed;
 	width: 100vw;
 	margin: 0 auto;
 	position: relative;
@@ -40,7 +40,7 @@ header {
 
 #section1 {
 	height: 1000px;
-	background: #333 50% 0 no-repeat fixed;
+	background: #f2f2f2 50% 0 repeat fixed;
 	width: 100vw;
 	margin: 0 auto;
 	position: relative;
