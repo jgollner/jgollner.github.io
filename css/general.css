@@ -29,17 +29,21 @@ header {
 
 
 #landing {
-	height: 100vh;
-	background: url(../images/!BG6.jpg) 100% 0 repeat fixed;
-	width: 100%;
-	margin: 0 auto;
-	position: relative;
-	z-index: 100;
 	
+	background: url(../images/!BG6.jpg) 50% 0 no-repeat fixed;
+	height: 70vh;  
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 5px rgba(0,0,0,0.8);
+   	z-index: 1;
+   	overflow: hidden;
+   	padding-top: 200px;
 }
-/*
 
-#section1 {
+
+/*#section1 {
 	height: 1000px;
 	background: #f2f2f2 50% 0 repeat fixed;
 	width: 100vw;
