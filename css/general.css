@@ -45,7 +45,7 @@ body {
    	z-index: 1;
    	overflow: hidden;
    	height: 50vh;
-   	padding-top: 180px;
+   	padding-top: 200px;
    	font-family: 'Dosis', sans-serif;
 	font-weight: 300;
 	font-size: 32pt;
@@ -57,7 +57,7 @@ body {
 h2 {
 	font-family: 'Dosis', sans-serif;
 	font-weight: 500;
-	font-size: 182pt;
+	font-size: 202pt;
 }
 
 
