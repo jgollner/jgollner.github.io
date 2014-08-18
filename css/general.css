@@ -420,7 +420,7 @@ article {
 }
 
 .nav ul {
-	border-bottom: #AECFED solid 3px;
+	
 }
 
 .nav-btn {
@@ -623,7 +623,14 @@ article {
 	float: right;
 }
 
-
+.nav-btn:hover,
+.nav-btn:focus,
+.nav-btn:active {
+	background-color: none;
+	background-position: ;
+	color: ;
+	opacity: .8;
+}
 
 .border-p {
 }
