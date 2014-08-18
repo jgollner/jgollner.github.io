@@ -608,9 +608,12 @@ article {
 }
 
 .ac-container{
-	display: inline-block;
+	display:none;
 }
 
+.nav-top {
+	display: inline-block;
+}
 
 
 .james {
