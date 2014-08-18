@@ -541,8 +541,8 @@ article {
 	display:inline-block;
 }
 
-.holder {
-	
+.holder li {
+	color: #555;
 	display: inline-block;
 	width: 100%;
 	padding-top: 5px;
