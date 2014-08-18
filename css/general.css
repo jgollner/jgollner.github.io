@@ -30,7 +30,7 @@ header {
 
 #landing {
 	height: 60vh;
-	background: url(../images/!BG6.jpg) 100% 0 no-repeat fixed;
+	background: url(../images/!BG6.jpg) 100% no-repeat fixed;
 	width: 100vw;
 	margin: 0 auto;
 	position: relative;
@@ -48,7 +48,7 @@ header {
 }
 
 
-
+/*
 
 
 
@@ -68,4 +68,4 @@ header {
 
 
 }
-
+*/
