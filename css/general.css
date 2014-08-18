@@ -121,10 +121,12 @@ b {
 
 
 .underline {
-	width: 10%;
-	margin: 0 auto;
+	width: 20%;
+	margin: 10px auto;
 	text-align: center;
 	border-bottom: 1px solid #ccc;
+	position: relative;
+
 
 }
 
