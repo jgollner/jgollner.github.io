@@ -608,7 +608,7 @@ article {
 }
 
 .ac-container{
-	display: none;
+	display: inline-block;
 }
 
 
