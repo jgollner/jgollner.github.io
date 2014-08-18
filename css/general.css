@@ -30,10 +30,8 @@ header {
 	background: url(../images/!BG6.jpg) 50% 0 no-repeat fixed;
 	height: 100vh;  
 	margin: 0 auto; 
-    width: 100%; 
-    
-    position: relative; 
-   
+    width: 100%;
+    position: relative;
    	z-index: 1;
    	overflow: hidden;
    
@@ -44,7 +42,6 @@ header {
 	width: 100%;
 	margin: 0 auto;
 	text-align: center;
-	padding: 5%;
     position: relative; 
    	z-index: 1;
    	overflow: hidden;
@@ -62,8 +59,8 @@ header {
 	width: 100%;
 	margin: 0 auto;
 	position: relative;
-	 overflow: hidden;
-		z-index: 1;
+	overflow: hidden;
+	z-index: 1;
 }
 
 
