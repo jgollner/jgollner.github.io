@@ -332,7 +332,7 @@ article {
 	overflow: hidden;
 	padding: 0;
 
-	background-color: #fff;
+
 }
 
 .nav > ul {
@@ -510,6 +510,12 @@ article {
 	padding-top:0;
 	
 }
+
+.nav {
+	background-color: #222;
+
+}
+
 
 .identity {
 	width: 45%;
