@@ -46,6 +46,9 @@ body {
    	overflow: hidden;
    	height: 70vh;
    	padding-top: 150px;
+   	font-family: 'Dosis', sans-serif;
+	font-weight: 300;
+	font-size: 32pt;
 
 }
 
