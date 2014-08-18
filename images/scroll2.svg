@@ -5,10 +5,10 @@
 	 viewBox="0 0 52.5 52.5" enable-background="new 0 0 52.5 52.5" xml:space="preserve">
 <circle fill="#FFFFFF" cx="27" cy="25.5" r="24.2"/>
 <g>
-	<polyline fill="none" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="20.1,31.4 
-		27.2,38.5 34.3,31.4 	"/>
+	<polyline fill="none" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="21.6,30.1 
+		27.2,35.7 32.7,30.1 	"/>
 	
-		<line fill="none" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="27" y1="37.5" x2="27" y2="14.5"/>
+		<line fill="none" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="27" y1="34.5" x2="27" y2="16.5"/>
 </g>
-<circle fill="none" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="27" cy="25.5" r="21.1"/>
+<circle fill="none" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="27" cy="25.5" r="16.5"/>
 </svg>
