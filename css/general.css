@@ -136,11 +136,11 @@ h3 {
 
 .circle {
 	background-image: url(../images/image001.png);
-	width: 250px;
+	width: 230px;
 	height: 250px;
 	
 	text-align: center;
-	margin: -270px auto 0;
+	margin: -210px auto 0;
 	position: relative;
 	z-index: 20;
 
