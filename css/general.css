@@ -135,12 +135,12 @@ h3 {
 
 
 .circle {
-	background-image: url(../images/scroll2.svg);
-	width: 80px;
-	height: 80px;
+	background-image: url(../images/image001.png);
+	width: 350px;
+	height: 350px;
 	
 	text-align: center;
-	margin: -40px auto 0;
+	margin: -170px auto 0;
 	position: relative;
 	z-index: 20;
 
