@@ -211,6 +211,40 @@ header {
 
 
 
+
+
+
+
+/**/
+
+@media only screen and (min-width: 60em) {
+#landing h2 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 100;
+	font-size: 26pt;
+	color: #888;
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+	line-height: .9em;
+	text-transform: uppercase;
+
+	}
+
+#landing b {
+	color: #0071bc;
+	font-size: 26pt;
+	width: 100%;
+	}
+
+}
+
+
+
+
+/**/
+
+
 /* PORTFOLIO GALLERY*/
 
 	@font-face {
@@ -739,8 +773,7 @@ a:hover {
 	.grid li {
 		width: 50%;
 	}
-
-		#landing h2 {
+#landing h2 {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 100;
 	font-size: 26pt;
