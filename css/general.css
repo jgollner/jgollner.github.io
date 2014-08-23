@@ -62,7 +62,7 @@ header {
 	font-size: 16pt;
 	color: #888;
 	text-align: center;
-	width: 70%;
+	width: 90%;
 	margin: 0 auto;
 	line-height: .9em;
 	text-transform: uppercase;
@@ -71,7 +71,7 @@ header {
 
 #landing b {
 	color: #0071bc;
-	font-size: 16pt;
+	font-size: 14pt;
 	width: 40%;
 	}
 
