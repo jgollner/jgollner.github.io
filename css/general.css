@@ -306,7 +306,7 @@ header {
 }
 
 .grid li {
-	width: 33.33333%;
+	width: 25%;
 	float: left;
 	cursor: pointer;
 
