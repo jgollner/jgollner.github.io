@@ -40,7 +40,7 @@ header {
 
 .comp {
 	margin: 60px 0 30px 0;
-	
+	width: 60%;
 }
 
 
@@ -240,6 +240,7 @@ header {
 
 	.comp {
 	margin: 150px 0 30px 0;
+	width: 100%;
 	
 }
 
