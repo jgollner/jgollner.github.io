@@ -30,11 +30,10 @@ header {
 }
 
 #landing {
-	background-color: #222 100% 0 fixed;
+	background-color: #222;
 	height: 93vh;
 	width: 100%;
-	position: relative;
-	z-index: -1;
+	
 	margin: 0 auto;
 	text-align: center;
 }
