@@ -40,7 +40,7 @@ header {
 
 .comp {
 	margin: 60px 0 30px 0;
-	width: 60%;
+	width: 40%;
 }
 
 
@@ -153,7 +153,7 @@ header {
 	height: 55px;
 	width: 55px;
 	text-align: center;
-	margin: 160px auto;
+	margin: 100px auto;
 }
 
 
@@ -243,6 +243,17 @@ header {
 	width: 100%;
 	
 }
+
+
+.scroll2 {
+	background-image: url(../images/scroll.svg);
+	background-repeat: no-repeat;
+	height: 55px;
+	width: 55px;
+	text-align: center;
+	margin: 160px auto;
+}
+
 
 }
 
