@@ -33,7 +33,7 @@ header {
 	background-color: #222;
 	height: 90vh;
 	width: 100%;
-	padding: 0 4%;
+	padding: 0;
 	margin: 0 auto;
 	text-align: center;
 }
@@ -74,6 +74,12 @@ header {
 	color: #0071bc;
 	font-size: 14pt;
 	width: 40%;
+	}
+
+#landing p {
+	color: #0071bc;
+	font-size:9pt;
+	width: 80%;
 	}
 
 
