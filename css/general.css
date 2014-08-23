@@ -30,7 +30,7 @@ header {
 }
 
 #landing {
-	background-color: #222;
+	background-image:url(../images/bg000.jpg);
 	height: 90vh;
 	width: 100%;
 	padding: 0;
