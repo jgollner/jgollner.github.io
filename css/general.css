@@ -91,7 +91,12 @@ header {
 	margin: 0 0 0 10px;
 }
 
-
+.underline {
+	border-bottom: 1px solid #555;
+	width: 85%;
+	margin: 0 auto;
+	text-align: center;
+}
 .social-top {
 	float: right;
 	margin-right: 10px;			
