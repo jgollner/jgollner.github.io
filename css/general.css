@@ -353,7 +353,7 @@ header {
 
 /* Grid style */
 .grid-wrap {
-	max-width: 100%;
+	max-width: 80%;
 	margin: 0 auto;
 	padding: 0 1em 1.875em;
 }
@@ -788,7 +788,7 @@ a:hover {
 	}
 
 	.slideshow li {
-		width: 85%;
+		width: 100%;
 		height: 100%;
 		top: 0;
 		left: 0;
