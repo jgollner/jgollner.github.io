@@ -262,6 +262,10 @@ header {
 	
 }
 
+.underline {
+	margin-bottom: 50px;
+}
+
 
 .scroll2 {
 	background-image: url(../images/scroll.svg);
