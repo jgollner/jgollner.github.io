@@ -26,7 +26,7 @@ header {
 	height: 10vh;
 	background-color: #222;
 	border-bottom: 1px solid #333;
-	padding: 0 1%;
+	padding: 0;
 }
 
 #landing {
@@ -258,6 +258,7 @@ header {
 
 header {
 	height: 7vh;
+	padding: 0 1%;
 }
 
 
