@@ -85,11 +85,11 @@
 	</g>
 </g>
 <g>
-	<path fill="none" stroke="#4D4D4D" stroke-width="0.75" stroke-miterlimit="10" d="M-0.6,52.6l-5,1.9l5,1.9v1.1L-6.8,55v-1l6.2-2.4
-		V52.6z"/>
-	<path fill="none" stroke="#4D4D4D" stroke-width="0.75" stroke-miterlimit="10" d="M4.4,49.5h1.1l-4.6,9.9h-1.1L4.4,49.5z"/>
-	<path fill="none" stroke="#4D4D4D" stroke-width="0.75" stroke-miterlimit="10" d="M6.2,52.6v-1.1l6.2,2.4v1l-6.2,2.4v-1.1l5-1.9
-		L6.2,52.6z"/>
+	<path fill="none" stroke="#4D4D4D" stroke-width="0.75" stroke-miterlimit="10" d="M-3.2,51.3l-8.7,3.3l8.7,3.3v1.9l-10.9-4.3v-1.7
+		l10.9-4.3V51.3z"/>
+	<path fill="none" stroke="#4D4D4D" stroke-width="0.75" stroke-miterlimit="10" d="M5.6,45.8h2l-8.1,17.3h-2L5.6,45.8z"/>
+	<path fill="none" stroke="#4D4D4D" stroke-width="0.75" stroke-miterlimit="10" d="M8.8,51.3v-1.9l10.9,4.3v1.7L8.8,59.7v-1.9
+		l8.7-3.3L8.8,51.3z"/>
 </g>
 <path fill="#535454" d="M106.8,57.9c0.2-0.2,0.2-0.5-0.1-0.7l-7.3-7.3c-0.3-0.3-0.8-0.3-1,0l-7.3,7.3c-0.3,0.3-0.2,0.5-0.2,0.6
 	c0,0.1,0.2,0.3,0.5,0.3h14.8C106.6,58.1,106.7,58,106.8,57.9z M99,50.4l0.5,0.5L99,51.5c-0.1,0.1-0.1,0.4,0,0.5
