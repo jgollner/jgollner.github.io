@@ -261,7 +261,10 @@ header {
 	padding: 0 1%;
 }
 
-
+#landing{
+	height: 93vh;
+}
+	
 }
 
 
