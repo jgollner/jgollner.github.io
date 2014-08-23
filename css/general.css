@@ -296,7 +296,7 @@ header {
 
 /* Grid style */
 .grid-wrap {
-	max-width: 69em;
+	max-width: 80%;
 	margin: 0 auto;
 	padding: 0 1em 1.875em;
 }
