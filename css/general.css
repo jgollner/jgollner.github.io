@@ -59,10 +59,10 @@ header {
 #landing h2 {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 100;
-	font-size: 16pt;
+	font-size: 13pt;
 	color: #888;
 	text-align: center;
-	width: 50%;
+	width: 70%;
 	margin: 0 auto;
 	line-height: .9em;
 	text-transform: uppercase;
@@ -224,7 +224,7 @@ header {
 	font-size: 26pt;
 	color: #888;
 	text-align: center;
-	width: 50%;
+	width: 70%;
 	margin: 0 auto;
 	line-height: .9em;
 	text-transform: uppercase;
@@ -747,24 +747,7 @@ a:hover {
 		display: none;
 	}
 
-	#landing h2 {
-	font-family: 'Source Sans Pro', sans-serif;
-	font-weight: 100;
-	font-size: 26pt;
-	color: #888;
-	text-align: center;
-	width: 50%;
-	margin: 0 auto;
-	line-height: .9em;
-	text-transform: uppercase;
-
-	}
-
-#landing b {
-	color: #0071bc;
-	font-size: 26pt;
-	width: 100%;
-	}
+	
 
 
 }
@@ -773,24 +756,7 @@ a:hover {
 	.grid li {
 		width: 50%;
 	}
-#landing h2 {
-	font-family: 'Source Sans Pro', sans-serif;
-	font-weight: 100;
-	font-size: 26pt;
-	color: #888;
-	text-align: center;
-	width: 50%;
-	margin: 0 auto;
-	line-height: .9em;
-	text-transform: uppercase;
 
-	}
-
-#landing b {
-	color: #0071bc;
-	font-size: 26pt;
-	width: 100%;
-	}
 }
 
 @media screen and (max-width: 35em) {
