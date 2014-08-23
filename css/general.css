@@ -562,6 +562,12 @@ a:hover {
 	color: #000;
 }
 
+
+.container {
+	padding-top: 100px;
+}
+
+
 .container > header {
 	width: 90%;
 	max-width: 69em;
