@@ -570,7 +570,7 @@ a:hover {
 
 .container > header {
 	width: 90%;
-	max-width: 69em;
+	
 	margin: 0 auto;
 	padding: 2.875em 1.875em 1.875em;
 }
@@ -768,24 +768,7 @@ a:hover {
 	}
 
 
-#landing h2 {
-	font-family: 'Source Sans Pro', sans-serif;
-	font-weight: 100;
-	font-size: 16pt;
-	color: #888;
-	text-align: center;
-	width: 50%;
-	margin: 0 auto;
-	line-height: .9em;
-	text-transform: uppercase;
 
-	}
-
-#landing b {
-	color: #0071bc;
-	font-size: 16pt;
-	width: 100%;
-	}
 }
 
 /*END*/
